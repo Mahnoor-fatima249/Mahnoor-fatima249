@@ -43,7 +43,7 @@ I am a rigorous **AI & Backend Developer** specializing in engineering productio
 
 ### 📬 Executive Network
 
-- **Professional Profile:** [LinkedIn](https://www.linkedin.com/in/mahnoor-fatima-529b91301/)
+- **Professional Profile:**https://www.linkedin.com/in/mahnoor-fatima-529b91301/
 - **Direct Inquiry:** mf0488789@gmail.com
 
 ---
