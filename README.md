@@ -9,44 +9,45 @@
   <img src="https://img.shields.io/badge/Focus-Generative%20AI%20%26%20Agents-purple?style=for-the-badge&logo=openai&logoColor=white" alt="Focus" />
 </p>
 
-I am a rigorous **AI & Backend Developer** specializing in engineering production-ready Generative AI solutions, scalable backend systems, and autonomous multi-agent workflows. I focus on bridging the gap between raw Large Language Models and stable, enterprise-grade business logic.
+A rigorous **AI & Backend Developer** specializing in engineering production-ready Generative AI solutions, scalable backend systems, and autonomous multi-agent workflows. I focus on bridging the gap between raw Large Language Models and stable, enterprise-grade business logic.
 
 ---
 
-### ⚙️ Core Expertise & Tech Stack
-
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Artificial Intelligence** | Gemini API, Groq, OpenAI SDK, Ollama, LangChain, LlamaIndex |
-| **Backend Engineering** | Python, FastAPI, RESTful APIs, System Architecture, Clean Code |
-| **Data & Automation** | SQL, PostgreSQL, Advanced Prompt Engineering, WhatsApp Business API |
-| **Cloud & MLOps** | Google Cloud Platform (GCP), LLM Fine-Tuning (Unsloth/QLoRA), Streamlit, Git |
-
----
-
-### 🚀 Production & Project Focus
-
-- **Agentic AI Architecture:** Developing autonomous, stateful multi-agent systems with tool-calling capabilities and structured routing.
-- **High-Performance Backends:** Designing robust backend services using FastAPI with automated validation, fast query handling, and clean database layers.
-- **Enterprise Automation:** Custom deployment of intelligent systems like conversational AI SalesBots and secure web-hook systems.
-
----
-
-### 📊 Engineering Metrics & Activity
+### 📊 Real-Time GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mahnoor-fatima249&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Mahnoor's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahnoor-fatima249&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahnoor-fatima249&layout=compact&theme=tokyonight&hide_border=true&langs_count=4" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahnoor-fatima249&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
 
-### 📬 Executive Network
+### 🛠️ Core Engineering Stack
 
-- **Professional Profile:**https://www.linkedin.com/in/mahnoor-fatima-529b91301/
-- **Direct Inquiry:** mf0488789@gmail.com
+| Architectural Layer | Technologies & Frameworks Deployed |
+| :--- | :--- |
+| **Backend & Logic** | Python 3.10+, FastAPI, Streamlit, RESTful APIs |
+| **AI & Automation** | Agentic Workflows, LangChain, Custom AI Agents |
+| **Data & Integrity** | Pydantic Schemas, JSON Data Routing, Database Tuning |
+| **DevOps & Controls** | Git Gitflow, Deployment Pipelines, Environment Tuning |
 
 ---
-<p align="center">
-  <i>"Optimizing backend architectures and scaling intelligent agents for real-world operations."</i>
+
+### 🏗️ Featured Production Repositories
+
+*   **[my-portfolio](https://github.com/Mahnoor-fatima249/my-portfolio)** — Full-Stack Portfolio Engine powered by Python (FastAPI) core server routing and dynamic data injections.
+*   **[My-Web-Portal](https://github.com/Mahnoor-fatima249/My-Web-Portal)** — Enterprise administrative gateway built to monitor student records and track active LLM training pipelines.
+*   **[Live-Weather-System](https://github.com/Mahnoor-fatima249/Live-Weather-System)** — Asynchronous meteorological analytics engine utilizing Streamlit and real-time third-party REST layers.
+
+---
+
+### 🌐 Connect & Collaborate
+
+<p align="left">
+  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Mahnoor-fatima249" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
