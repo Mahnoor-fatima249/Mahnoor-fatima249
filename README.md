@@ -28,7 +28,7 @@ I am an **AI & Backend Developer** specializing in building next-generation Gene
 
 ### 📬 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/mahnoor-fatima-529b91301/)
 - **Email:** mf0488789@gmail.com
 
 *"Building the future of automation, one intelligent agent at a time."*
