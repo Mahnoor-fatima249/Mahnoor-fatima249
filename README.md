@@ -47,7 +47,7 @@ A rigorous **AI & Backend Developer** specializing in engineering production-rea
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
----
+
 
 
 ## 🏗️ Featured Production Repositories
@@ -63,16 +63,26 @@ A rigorous **AI & Backend Developer** specializing in engineering production-rea
 
 ## 🚀 Popular Repositories
 
-*   **[ai-debate-backend](https://github.com/Mahnoor-fatima249/ai-debate-backend)** — Backend logic for AI-driven competitive debating systems.
-*   **[DecodeLabs-Internship](https://github.com/Mahnoor-fatima249/DecodeLabs-Internship)** — Collection of projects and tasks completed during internship.
-*   **[Nexe_agent](https://github.com/Mahnoor-fatima249/Nexe_agent)** — Research and development for agentic AI architectures.
-*   **[Pro-Task-Manager](https://github.com/Mahnoor-fatima249/Pro-Task-Manager)** — Efficient task management system with streamlined UI/UX.
-
+*   **[ai-agentic-workflows](https://github.com/Mahnoor-fatima249/ai-agentic-workflows)** — Advanced autonomous multi-agent orchestration and workflow logic. 
+*   **[ai-debate-backend](https://github.com/Mahnoor-fatima249/ai-debate-backend)** — Backend logic for AI-driven competitive debating systems. 
+*   **[AI-Object-Detection-Caffe](https://github.com/Mahnoor-fatima249/AI-Object-Detection-Caffe)** — Computer vision implementation using Caffe framework. 
+*   **[Pro-Task-Manager](https://github.com/Mahnoor-fatima249/Pro-Task-Manager)** — Efficient task management system with streamlined UI/UX. (CSS)
+*   **[ai-agentic-Developer](https://github.com/Mahnoor-fatima249/ai-agentic-Developer)** — Agentic AI architecture for automated development tasks. 
+*   **[Mahnoor-AI-Hub](https://github.com/Mahnoor-fatima249/Mahnoor-AI-Hub)** — Centralized hub for AI experiments and implementations.
 ---
-
 ### 🌐 Connect & Collaborate
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mahnoor-fatima-529b91301/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Mahnoor-fatima249" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mahnoor-fatima-529b91301/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Mahnoor-fatima249" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/mahnoor_backend?igsh=cTc5aG5leGdrbmh6" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/share/1JPHuZCPFb/?igsh=cTc5aG5leGdrbmh6" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 </p>
