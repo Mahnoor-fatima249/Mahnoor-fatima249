@@ -52,16 +52,18 @@ A rigorous **AI & Backend Developer** specializing in engineering production-rea
 
 ## 🏗️ Featured Production Repositories
 
-*   **[my-portfolio](https://github.com/Mahnoor-fatima249/my-portfolio)** — Full-Stack Portfolio Engine powered by Python (FastAPI) core server routing and dynamic data injections.
-*   **[My-Web-Portal](https://github.com/Mahnoor-fatima249/My-Web-Portal)** — Enterprise administrative gateway built to monitor student records and track active LLM training pipelines.
-*   **[Live-Weather-System](https://github.com/Mahnoor-fatima249/Live-Weather-System)** — Asynchronous meteorological analytics engine utilizing Streamlit and real-time third-party REST layers.
+*   **[my-portfolio](https://github.com/Mahnoor-fatima249/my-portfolio)** — Full-Stack Portfolio Engine powered by Python (FastAPI) core server routing.
+*   **[My-Web-Portal](https://github.com/Mahnoor-fatima249/My-Web-Portal)** — Enterprise administrative gateway for student records and LLM pipelines.
+*   **[Live-Weather-System](https://github.com/Mahnoor-fatima249/Live-Weather-System)** — Asynchronous meteorological analytics engine.
+*   **[AI-Agentic-Flow](https://github.com/Mahnoor-fatima249/ai-agentic-workflows)** — Advanced autonomous multi-agent orchestration and workflow logic.
+*   **[AI-Object-Detector](https://github.com/Mahnoor-fatima249/AI-Object-Detection-Caffe)** — Computer vision implementation for real-time object detection.
+*   **[AI-Agentic-Developer](https://github.com/Mahnoor-fatima249/ai-agentic-Developer)** — Agentic AI architecture for automated development tasks.
 
 ---
 
 ## 🚀 Popular Repositories
-*   **[ai-agentic-workflows](https://github.com/Mahnoor-fatima249/ai-agentic-workflows)** — Advanced autonomous multi-agent orchestration.
+
 *   **[ai-debate-backend](https://github.com/Mahnoor-fatima249/ai-debate-backend)** — Backend logic for AI-driven competitive debating systems.
-*   **[AI-Object-Detection-Caffe](https://github.com/Mahnoor-fatima249/AI-Object-Detection-Caffe)** — Computer vision implementation using Caffe framework.
 *   **[DecodeLabs-Internship](https://github.com/Mahnoor-fatima249/DecodeLabs-Internship)** — Collection of projects and tasks completed during internship.
 *   **[Nexe_agent](https://github.com/Mahnoor-fatima249/Nexe_agent)** — Research and development for agentic AI architectures.
 *   **[Pro-Task-Manager](https://github.com/Mahnoor-fatima249/Pro-Task-Manager)** — Efficient task management system with streamlined UI/UX.
