@@ -16,24 +16,33 @@ A rigorous **AI & Backend Developer** specializing in engineering production-rea
 ### 📊 Real-Time GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahnoor-fatima249&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Mahnoor's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahnoor-fatima249&layout=compact&theme=tokyonight&hide_border=true&langs_count=4" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahnoor-fatima249&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
 
-### 🛠️ Core Engineering Stack
+## 💻 Tech Stack
 
-| Architectural Layer | Technologies & Frameworks Deployed |
-| :--- | :--- |
-| **Backend & Logic** | Python 3.10+, FastAPI, Streamlit, RESTful APIs, **TypeScript** |
-| **AI & Automation** | Agentic Workflows, LangChain, Custom AI Agents |
-| **Data & Integrity** | Pydantic Schemas, JSON Data Routing, Database Tuning |
-| **DevOps & Controls** | Git Gitflow, Deployment Pipelines, Environment Tuning |
+### 🛠 Languages & Frameworks
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 🤖 AI & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+
+### 🗄️ Backend & Tools
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 
 ---
 
