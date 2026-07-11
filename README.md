@@ -297,7 +297,7 @@ I believe in learning by building real-world projects and continuously improving
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 </a>
-```html
+
 <a href="https://www.instagram.com/mahnoor_backend?igsh=cTc5aG5leGdrbmh6" target="_blank">
 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
