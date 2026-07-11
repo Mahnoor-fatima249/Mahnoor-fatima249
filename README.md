@@ -24,33 +24,47 @@ A rigorous **AI & Backend Developer** specializing in engineering production-rea
 ## 💻 Tech Stack
 
 ### 🛠 Languages & Frameworks
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
 
 ### 🤖 AI & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
 
+</p>
 
 ### 🗄️ Backend & Tools
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
+<p align="left">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 ---
 
-### 🏗️ Featured Production Repositories
+
+## 🏗️ Featured Production Repositories
 
 *   **[my-portfolio](https://github.com/Mahnoor-fatima249/my-portfolio)** — Full-Stack Portfolio Engine powered by Python (FastAPI) core server routing and dynamic data injections.
 *   **[My-Web-Portal](https://github.com/Mahnoor-fatima249/My-Web-Portal)** — Enterprise administrative gateway built to monitor student records and track active LLM training pipelines.
 *   **[Live-Weather-System](https://github.com/Mahnoor-fatima249/Live-Weather-System)** — Asynchronous meteorological analytics engine utilizing Streamlit and real-time third-party REST layers.
+
+---
+
+## 🚀 Popular Repositories
+*   **[ai-agentic-workflows](https://github.com/Mahnoor-fatima249/ai-agentic-workflows)** — Advanced autonomous multi-agent orchestration.
+*   **[ai-debate-backend](https://github.com/Mahnoor-fatima249/ai-debate-backend)** — Backend logic for AI-driven competitive debating systems.
+*   **[AI-Object-Detection-Caffe](https://github.com/Mahnoor-fatima249/AI-Object-Detection-Caffe)** — Computer vision implementation using Caffe framework.
+*   **[DecodeLabs-Internship](https://github.com/Mahnoor-fatima249/DecodeLabs-Internship)** — Collection of projects and tasks completed during internship.
+*   **[Nexe_agent](https://github.com/Mahnoor-fatima249/Nexe_agent)** — Research and development for agentic AI architectures.
+*   **[Pro-Task-Manager](https://github.com/Mahnoor-fatima249/Pro-Task-Manager)** — Efficient task management system with streamlined UI/UX.
 
 ---
 
