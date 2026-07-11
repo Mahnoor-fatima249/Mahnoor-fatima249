@@ -30,7 +30,7 @@ A rigorous **AI & Backend Developer** specializing in engineering production-rea
 
 | Architectural Layer | Technologies & Frameworks Deployed |
 | :--- | :--- |
-| **Backend & Logic** | Python 3.10+, FastAPI, Streamlit, RESTful APIs |
+| **Backend & Logic** | Python 3.10+, FastAPI, Streamlit, RESTful APIs, **TypeScript** |
 | **AI & Automation** | Agentic Workflows, LangChain, Custom AI Agents |
 | **Data & Integrity** | Pydantic Schemas, JSON Data Routing, Database Tuning |
 | **DevOps & Controls** | Git Gitflow, Deployment Pipelines, Environment Tuning |
