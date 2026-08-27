@@ -124,18 +124,7 @@ Currently I'm working as an **Agentic AI Developer at Nexe-Agent**, where I buil
 
 # 📊 GitHub Analytics
 
-
-<p align="center">
-
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahnoor-fatima249&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mahnoor-fatima249&theme=tokyo-night&hide_border=true"/>
-
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahnoor-fatima249&theme=radical" alt="GitHub Streak" />
 
 ---
 ## 🚀 Featured Projects
